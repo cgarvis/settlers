@@ -1,0 +1,22 @@
+{
+  "name": "settlers",
+  "version": "0.0.0",
+  "description": "settlers ========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cgarvis/settlers.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cgarvis/settlers/issues"
+  },
+  "homepage": "https://github.com/cgarvis/settlers",
+  "devDependencies": {
+    "bower": "~1.2.8"
+  }
+}
